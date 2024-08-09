@@ -15,7 +15,7 @@ On the bowling front, teams have taken a total of 2,436 wickets, with an economy
 **Team Success:**
 The winning percentage and total wins by teams reveal the competitive nature of the IPL. The Super Kings, with a winning percentage of 15.97%, and RCB, with 25 wins, stand out as top performers, demonstrating consistent excellence throughout the season. Other teams like the Titans, Royals, and KKR also made significant contributions, reflecting the depth and competitiveness of the league.
 
-![Screenshot 2024-08-08 195642](https://github.com/user-attachments/assets/65c8f0b2-ebd3-4340-87db-cd622e359060)
+![Screenshot 2024-08-08 195600](https://github.com/user-attachments/assets/9cbfef1f-964b-4fd9-9bd2-e4843f666bea)
 
 
 **Conclusion:**
